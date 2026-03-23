@@ -1,0 +1,24 @@
+# Virtual environments
+model/
+venv/
+env/
+__pycache__/
+*.pyc
+
+# Secrets
+.streamlit/secrets.toml
+*.json
+*.key
+*.pem
+.env
+.env.local
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
